@@ -1,0 +1,171 @@
+h1{color:white;
+    font-size:200px;
+    font-family: "Bitcount Grid Double", system-ui;
+    font-weight:500;
+    font-style: normal;
+  }
+.line {
+    margin: 0px;
+      }
+
+body{
+  background-image: url('https://farm5.staticflickr.com/4468/23495077118_318ddaa720_z.jpg');
+}
+#title{width: 60px;
+      padding-top: 90px;
+      padding-left: 90px;
+    }
+#sun{ 
+    width: 60px; 
+    margin-left: 620px; 
+    margin-top: -550px;
+    margin-bottom: 0px;
+    }
+#sizeimg{
+  height:1100px;
+    }
+.para{font-family: "VT323", monospace;
+      font-weight: 400;
+      font-style: normal;
+      font-size: 33px;
+      color: wheat;
+     
+     }
+#head1{
+      font-size: 40px;
+      font-family: "Honk", system-ui;
+      font-optical-sizing: auto;
+      font-weight: 400;
+      font-style: normal;
+      }
+#about{
+      width: 650px;
+      padding-left: 90px;
+      margin-top: -500px;
+      }
+#head2{font-family:   "Silkscreen", sans-serif;
+       font-weight: 600;
+       font-style: normal;
+       font-size: 90px;
+       margin: 0px;
+       margin-top: 36px;
+       background: linear-gradient(to top,#211C6A, #009990,#6EC207);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+       color: transparent;
+       background-clip: text; 
+}
+
+.eart_mar{
+  margin-top: -450px;
+  margin-left: 380px;
+}
+.planimg{
+  height: 600px;
+}
+.rightside{
+  margin-left: 990px;
+  margin-top:-100px;
+}
+.earth_mars{
+  padding-left: 90px;
+  width: 300px;
+}
+#head3{
+       font-family: "Bungee Spice", sans-serif;
+       font-weight: 400;
+       font-style: normal;
+       font-size: 80px;
+       margin: 0px;
+       margin-top: 36px;
+}
+#outro{
+    padding-left: 90px;
+    width: 1000px;
+}
+#head4{
+    color:white;
+    font-size:50px;
+    font-family: "Bitcount Grid Double", system-ui;
+    font-weight:500;
+    font-style: normal;
+}
+
+.subplanet{height: 200px;margin-bottom: 10px;}
+
+.mercury_saturn {
+  border: 5px solid silver;
+  height: 250px; width: 250px;
+  margin: 20px; border-radius: 50px;
+  padding: 20px;
+  margin-left: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+#venus{
+  border: 5px solid silver;
+  height: 250px; width: 250px; 
+  margin: 20px; border-radius: 50px;
+  padding: 20px;
+  margin-left:500px;
+  margin-top: -640px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+#jupiter{
+  border: 5px solid silver;
+  height: 250px; width: 250px; 
+  margin: 20px; border-radius: 50px;
+  padding: 20px;
+  margin-left:900px;
+  margin-top: -320px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#uranus{
+  border: 5px solid silver;
+  height: 250px; width: 250px; 
+  margin: 20px; border-radius: 50px;
+  padding: 20px;
+  margin-left:500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+ 
+}
+#neptune{
+  border: 5px solid silver;
+  height: 250px; width: 250px; 
+  margin: 20px; border-radius: 50px;
+  padding: 20px;
+  margin-left:900px;
+  margin-top: -320px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.para1{
+  margin: 0;
+  font-family: "VT323", monospace;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 33px;
+  color: wheat;
+}
+/* Incase in need of border for class em
+.eart_mar{
+  margin-top: -450px; *620<-450*
+}
+.earth_mars{
+  padding-left: 90px; *90<-70*
+}
+.em{border: 5px dashed silver;
+    margin: 50px;
+    padding-bottom: 15px;}
+*/
